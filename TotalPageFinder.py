@@ -4,7 +4,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 
-def get_number_of_pages_selenium(url):
+def get_number_of_pages (url):
     chrome_options = Options()
     chrome_options.add_argument("--headless")  # Run in headless mode for efficiency
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
@@ -30,9 +30,9 @@ def get_number_of_pages_selenium(url):
         driver.quit()
 
 # Example usage
-# url = 'https://www.eventbrite.com.au/d/australia/dog/'
-# number_of_pages = get_number_of_pages_selenium(url)
-# if number_of_pages is not None:
-#     print(f"Number of pages: {number_of_pages}")
-# else:
-#     print("Failed to retrieve number of pages.")
+url = 'https://www.eventbrite.com.au/d/australia/dog/'
+number_of_pages = get_number_of_pages(url)
+if number_of_pages is not None:
+    print(f"Number of pages: {number_of_pages}")
+else:
+    print("Failed to retrieve number of pages.")

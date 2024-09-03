@@ -15,7 +15,7 @@ def gather_event_urls_with_selenium(base_url):
     driver = webdriver.Chrome(service=service, options=chrome_options)
 
     all_event_urls = []
-    max_pages = TotalPageFinder.get_number_of_pages_selenium(base_url)
+    max_pages = TotalPageFinder.get_number_of_pages(base_url)
     try:
         for page in range(1, max_pages + 1):
             # Open the URL for the current page
