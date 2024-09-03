@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import requests
 from bs4 import BeautifulSoup
 
@@ -49,7 +49,4 @@ with open('event_info.txt', 'w') as file:
         file.write(f"- {slot}\n")
 
 print("Event information has been saved to event_info.txt")
-=======
-print('hello')
-print('alan')
->>>>>>> 74078b95e4dbef61c797dceb1e54260f5b4892d1
+
