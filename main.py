@@ -64,3 +64,4 @@ event_urls = EventURLlist.gather_event_urls_with_selenium(url)
 result = process_event_urls(event_urls)
 for event in result:
     print(event)
+
