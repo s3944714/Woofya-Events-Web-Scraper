@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Pampered Pet Staycation",
+        "description": "Want to treat yourself and your pet to some afternoon tea and a pamper session? Book a trip to Sydney or even have a staycation and bring along your furry friends a theLangham Hotel. Indulge in theirPampered Pets Staycationand enjoy an overnight stay with breakfast in bed for you and of course your pet.",
+        "location": "Langham Hotel"
+    },
+    {
+        "title": "Wine tasting with your four-legged friends",
+        "description": "Enjoy wine tasting without having to leave your dog at home atCapercaillie Wineslocated in Lovedale in The Hunter Valley.",
+        "location": "Capercaillie Wines"
+    },
+    {
+        "title": "Hit up Dish & Spoon for a dog-friendly brunch",
+        "description": "Dish & Spoon, located in Camberwell is the perfect spot to get some brunch with your friends and bring along your dogs. They even have a doggy door waiting to greet your dog with open arms and bowls scattered throughout the cafe to keep your dog hydrated.",
+        "location": "Dish & Spoon"
+    },
+    {
+        "title": "Enjoy a round of beer at this dog-friendly pub",
+        "description": "Head to theGreat Northern Northern Hotelfor a round of drinks after your Sunday dog walk. Located in Carlton North, they’ll be serving craft beers in their beer garden and they even have a dedicatedInstagram accountfeaturing the dogs that stroll into their pub.",
+        "location": "Great Northern Northern Hotel"
+    },
+    {
+        "title": "Bring your dog to yoga",
+        "description": "Hot Tropical Yogain Coolangatta is the perfect place to take your dog along to your next yoga class or DOGA as they like to call it.  Suitable for dogs of all shapes and sizes, you’ll be enjoying a doggy walk by the beach alongside some meditation, tricks and stretching. Plus, they also offer online DOGA classes.",
+        "location": "Hot Tropical Yoga"
+    },
+    {
+        "title": "Visit Flinders Beach for your next camping adventure",
+        "description": "Ever wanted to camp by a picturesque beach with crystal blue waters?Flinders Beach in Stradbroke Islandis your go-to spot for your next camping adventure and your dog can definitely tag along. There are a bunch ofactivitiesto choose from including guided tours that take you to sacred Aboriginal sites along the island.",
+        "location": "Flinders Beach in Stradbroke Island"
+    },
+    {
+        "title": "Visit Kangaroo Island for a heap of dog-friendly activities",
+        "description": "VisitKangaroo Island, Australia’s third largest Island and bring your four-legged friends along for the ride with you. The eastern side of the island has a stack of activities and places to explore with your dog including walks along the beach, dog-friendly cafes and wineries for lunch and a tipple.",
+        "location": "Kangaroo Island"
+    },
+    {
+        "title": "Paddleboard with your dog",
+        "description": "Looking to try paddleboarding? Head to Brighton Seacliff Sailing Club in Adelaide for paddle boarding classes at South Australia’s leading stand-up paddle boarding site,Stand Up Paddle SA. Soak up some rays on a summer’s day with paddle boarding lessons, tours and yoga.",
+        "location": "Stand Up Paddle SA"
+    },
+    {
+        "title": "Treat your dog to a dog-friendly brunch",
+        "description": "Looking for your next brunch spot? Head toUnion Kitchenin Mindarie for breakfast, lunch or even dinner – they do it all. They even have a stacked-outdog menu, serving up Puppicino’s, K9 Kookies, Pupcakes and Pupsicles so while you’re enjoying your food, your dog isn’t missing out.",
+        "location": "Union Kitchen"
+    },
+    {
+        "title": "Pamper yourself and your pet at a dog-friendly spa retreat",
+        "description": "Yallingup Lodge Spa Retreatis the perfect spot for your next spa retreat located in the gorgeous Yallingup area within the Margaret River Wine Region. It’s home to wineries, breweries, and a bunch of fun adventure activities for thrill seekers and places to indulge in gourmet food.",
+        "location": "Yallingup Lodge Spa Retreat"
+    },
+    {
+        "title": "Wander through the luscious botanical gardens",
+        "description": "Just two kilometres north of Darwin city, you’ll findThe George Brown Darwin Botanic Gardens, home to 42 hectares of north Australian and other tropical species from heliconias, and tropical orchids to an African-Madagscan garden. After wandering through the gardens, treat yourself to some high tea atEva’s Botanic Garden’s Cafeand snap a couple of pics of your dogs to win Pup of the Month on Instagram.",
+        "location": "The George Brown Darwin Botanic Gardens"
+    },
+    {
+        "title": "Head to the off-leash beach cafe and park",
+        "description": "Cafe De La Pagein Casuarina Coastal Reserve serves up a delicious menu sourced from local farmers with beanbags and hammocks to sit back and enjoy the scenery with your pup by your side. On the first Sunday of every month, they even have street food from different cultures around the world.",
+        "location": "Cafe De La Page"
+    },
+    {
+        "title": "Visit Australia’s oldest brewery",
+        "description": "The Cascade Brewery, established in 1824 is home to Australia’s oldest brewery, located in South Hobart beneath Mt. Wellington. The Cascade Brewery produces a range of beers and ciders and even serves up a crafted menu that matches their beers and ciders. Bring along your dogs and enjoy your meal and drinks from their heritage beer garden.",
+        "location": "The Cascade Brewery"
+    },
+    {
+        "title": "Stay at an award-winning property on a heritage Milmkan’s Cottage",
+        "description": "If you’re heading to Tasmania, you might want to check out this dog-friendly cottage in the heart of Hobart’s CBD.Milkman’s Cottageis architecturally designed and renovated on a heritage Milkman’s Cottage and even won a prize at the Tasmanian Architecture Awards in 2017. It has a sunny courtyard and a mini herb garden for you and your pet to catch some rays.",
+        "location": "Milkman’s Cottage"
+    },
+    {
+        "title": "Have a picnic and a swim at Uriarra Crossing",
+        "description": "Less than half an hour west of Canberra’s CBD, you’ll findUriarra Crossingon the Murrumbidgee River. On a summer’s day, enjoy a picnic, BBQ and a swim with your mates and bring along your dogs. Most of the area is off-leash, so your dog can run around and enjoy the natural scenery.",
+        "location": "Uriarra Crossing"
+    },
+    {
+        "title": "Visit The Cupping Room for lunch",
+        "description": "In the heart of Canberra City, you’ll findThe Cupping Room, a cafe project of Ona Coffee aiming to educate and involve coffee drinkers who have a fine appreciation for the art of coffee making. Bring your dogs along and you might even get featured on their Instagram,@puppersofcuppers.They even host an annual Dog’s Day Out event where your dog gets a free treat and you get a free coffee.",
+        "location": "The Cupping Room"
+    }
+]
