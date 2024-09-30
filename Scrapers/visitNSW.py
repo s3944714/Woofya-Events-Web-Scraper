@@ -1,6 +1,7 @@
 import os
 import json
 from requests_html import HTMLSession
+import pyppeteer
 
 # Base URL for the event search
 base_url = "https://www.visitnsw.com/search?query=dogs&type=events&page="
@@ -13,6 +14,7 @@ session = HTMLSession()
 
 # Limit the scraper to run only for 12 pages
 max_pages = 12
+max_retries = 3  # Maximum number of retries for each page
 
 # Phase 1: Scrape event links and basic information
 for page in range(1, max_pages + 1):
@@ -20,11 +22,20 @@ for page in range(1, max_pages + 1):
     url = f"{base_url}{page}"
     print(f"Scraping page {page}: {url}")
 
-    # Send a GET request to fetch the HTML content and render JavaScript
+    # Send a GET request to fetch the HTML content
     response = session.get(url)
 
-    # Render the JavaScript (this is what handles dynamic content)
-    response.html.render(sleep=3)  # Adjust sleep time if necessary
+    # Retry mechanism for rendering JavaScript
+    for attempt in range(max_retries):
+        try:
+            # Render the JavaScript (this is what handles dynamic content)
+            response.html.render(sleep=3, timeout=20)  # Adjust timeout as needed
+            break  # Exit loop if successful
+        except pyppeteer.errors.TimeoutError:
+            print(f"Timeout on page {page}, attempt {attempt + 1} of {max_retries}")
+    else:
+        print(f"Failed to render page {page} after {max_retries} attempts. Skipping.")
+        continue
 
     # Parse the HTML content
     soup = response.html
@@ -62,8 +73,7 @@ for page in range(1, max_pages + 1):
                 'link': event_link,
                 'description': description,
                 'image': image_url,
-                'date': 'TBD',  # Will be updated later
-                'location': 'TBD'  # Will be updated later
+                
             }
 
             # Append the event data to the list
