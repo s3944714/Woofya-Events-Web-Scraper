@@ -20,11 +20,6 @@
         "location": "Online"
     },
     {
-        "title": "September Reactivity Meets Real World - Reactive Dog Training Program",
-        "description": "Sat, 28 Sep, 11:30am - 12:30pm EDT",
-        "location": "1859 Centre St, West Roxbury, MA 02132, USA"
-    },
-    {
         "title": "Howl-O- Ween: Neighborhood Trick or Treat for the Dogs!",
         "description": "Sun, 27 Oct, 3pm - 6pm EDT",
         "location": "To be announced"
@@ -38,11 +33,6 @@
         "title": "She Loves Dogs - Speed Dating for Queer Womyn",
         "description": "Fri, 18 Oct, 7pm - 9pm NZDT",
         "location": "584 Great South Road, Ellerslie, Auckland 1051, New Zealand"
-    },
-    {
-        "title": "Dogs in the park NSW @ Dapto Show",
-        "description": "Sat, 28 Sep, 10am - 5pm AEST",
-        "location": "89-99 Princes Hwy, Dapto NSW 2530, Australia"
     },
     {
         "title": "Goat Yoga on the Farm",
@@ -75,9 +65,9 @@
         "location": "4700 S County Rd G, Janesville, WI 53546, USA"
     },
     {
-        "title": "Woof Fest & Dachshund Festival Sutherland Shire",
-        "description": "Sun, 29 Sep, 10am - 3pm AEST",
-        "location": "1R Mitchell Rd, Cronulla NSW 2230, Australia"
+        "title": "Barks & Brews",
+        "description": "Sun, 13 Oct, 12pm - 4pm AEDT",
+        "location": "128 Copeland Rd, Beecroft NSW 2119, Australia"
     },
     {
         "title": "Penrith Christmas Photo Shoot",
@@ -85,14 +75,14 @@
         "location": "Station St, Penrith NSW 2750, Australia"
     },
     {
+        "title": "Moore park  Christmas Photo Shoot",
+        "description": "Sun, 15 Dec, 10am - 3pm AEDT",
+        "location": "Lang Rd, Moore Park NSW 2021, Australia"
+    },
+    {
         "title": "Paint Your Pet Winter Edition  |  Instructed Painting Event",
         "description": "Sat, 23 Nov, 6pm - 8:30pm PST",
         "location": "13329 SE Misty Dr, Happy Valley, OR 97086, USA"
-    },
-    {
-        "title": "Healthy Pet Day- Morwell",
-        "description": "Wed, 25 Sep, 9:30am - 5pm AEST",
-        "location": "48-50 Beattie Cres, Morwell VIC 3840, Australia"
     },
     {
         "title": "Paint Your Pet Fall Edition |  Custom Instructed Painting Event",
@@ -100,14 +90,19 @@
         "location": "13329 SE Misty Dr, Happy Valley, OR 97086, USA"
     },
     {
-        "title": "St Kilda Puppy Pub Crawl",
-        "description": "Sun, 13 Oct, 3pm - 10:30pm AEDT",
-        "location": "12 Fitzroy St, St Kilda VIC 3182, Australia"
+        "title": "Wags and Whiskers 4 Wellness",
+        "description": "Mon, 14 Oct, 6pm - 7:05pm AEDT",
+        "location": "To be announced"
     },
     {
         "title": "Brunswick Puppy Pub Crawl",
         "description": "Sun, 27 Oct, 3pm - 6:30pm AEDT",
         "location": "377 Victoria St, Brunswick VIC 3056, Australia"
+    },
+    {
+        "title": "St Kilda Puppy Pub Crawl",
+        "description": "Sun, 13 Oct, 3pm - 6:30pm AEDT",
+        "location": "12 Fitzroy St, St Kilda VIC 3182, Australia"
     },
     {
         "title": "Most Pawsome Pet Business Conference",
@@ -120,11 +115,6 @@
         "location": "1417 W Airport Rd, Janesville, WI 53546, USA"
     },
     {
-        "title": "Wags and Whiskers 4 Wellness",
-        "description": "Mon, 14 Oct, 6pm - 7:05pm AEDT",
-        "location": "To be announced"
-    },
-    {
         "title": "Dachshund Races with PipEats @ Mona Vale!",
         "description": "Sat, 5 Oct, 11am - 2:45pm AEST",
         "location": "2 Park St, Mona Vale NSW 2103, Australia"
@@ -135,24 +125,19 @@
         "location": "10/14 Market Ln, Rouse Hill NSW 2155, Australia"
     },
     {
-        "title": "South Yarra Puppy Pub Crawl",
-        "description": "Sun, 29 Sep, 3pm - 6:30pm AEST",
-        "location": "137 Chapel St, Windsor VIC 3181, Australia"
-    },
-    {
         "title": "Preston/Reservoir Puppy Pub Crawl",
         "description": "Sun, 24 Nov, 3pm - 6:30pm AEDT",
         "location": "463/467 Plenty Rd, Preston VIC 3072, Australia"
     },
     {
+        "title": "South Yarra Puppy Pub Crawl",
+        "description": "Sun, 12 Jan 2025, 3pm - 6:30pm AEDT",
+        "location": "137 Chapel St, Windsor VIC 3181, Australia"
+    },
+    {
         "title": "2024 Noorat Show",
         "description": "Sat, 16 Nov, 9am - 4pm AEDT",
         "location": "Mackinnons Bridge Rd, Noorat VIC 3265, Australia"
-    },
-    {
-        "title": "Healthy Pet Day Morwell - SECOND DAY ADDED!",
-        "description": "Thu, 26 Sep, 10am - 3pm AEST",
-        "location": "48-50 Beattie Cres, Morwell VIC 3840, Australia"
     },
     {
         "title": "Mind Medicine Australia FREE Webinar - Treatment of Mood Disorders: What Does the Future Hold? With Prof Allan H. Young (UK)",
@@ -165,6 +150,11 @@
         "location": "3227 N Davidson St, Charlotte, NC 28205, USA"
     },
     {
+        "title": "WA - Black Dog Ride to the Full Moon 2024",
+        "description": "Sat, 16 Nov, 4pm - 17 Nov, 10am AWST",
+        "location": "To be announced"
+    },
+    {
         "title": "Black Dog Ride X Indian Motorcycle 2024 Raffle",
         "description": "Wed, 31 Jan, 1pm - 12 Oct, 12pm UTC",
         "location": "Online"
@@ -173,11 +163,6 @@
         "title": "Black Dog Ride - Australian Superbikes (ASBK) - Round 6 Volunteers",
         "description": "Fri, 4 Oct, 8am - 6 Oct, 4pm AEST",
         "location": "4770 Braidwood Rd, Tirrannaville NSW 2580, Australia"
-    },
-    {
-        "title": "WA - Black Dog Ride to the Full Moon 2024",
-        "description": "Sat, 16 Nov, 4pm - 17 Nov, 10am AWST",
-        "location": "3550 Dandaragan Rd, Dandaragan WA 6507, Australia"
     },
     {
         "title": "Black Dog Ride - Australian Superbikes (ASBK) - Round 7 Volunteers",
@@ -205,14 +190,9 @@
         "location": "Online"
     },
     {
-        "title": "Melbourne Social Walks - Port Melbourne Surf Club to Sandridge Lookout Sunrise Walk - Easy 8km (Dog Friendly)",
-        "description": "Wed, 25 Sep, 6am - 8:30am AEST",
-        "location": "38 Beaconsfield Parade, Port Melbourne VIC 3207, Australia"
-    },
-    {
-        "title": "Melbourne Social Walks - You Yangs Eastern Epic and Branding Yard Trail Loop - Moderate 9km (Dog Friendly - Must be on a lead)",
-        "description": "Sun, 29 Sep, 10:30am - 1:30pm AEST",
-        "location": "23 Branch Rd, Little River VIC 3211, Australia"
+        "title": "Melbourne Social Walks - St Kilda Pier to Port Melbourne Sunrise Walk - Easy 6km - Dog Friendly!",
+        "description": "Wed, 2 Oct, 5:45am - 8am AEST",
+        "location": "St.Kilda Marina & Surrounding Foreshore, 40 Jacka Blvd, St Kilda VIC 3182, Australia"
     },
     {
         "title": "That's My Dog! with Jon Preece",
@@ -255,14 +235,14 @@
         "location": "Online"
     },
     {
-        "title": "NAT'S WHAT I RECKON \ud83c\udf2d Hot Dogs Probably Aren't Real @ The Howling Owl (AUSLAN INTERPRETED)",
-        "description": "Fri, 11 Oct, 8pm - 9pm ACDT",
-        "location": "10 Vaughan Pl, Adelaide SA 5000, Australia"
-    },
-    {
         "title": "NAT'S WHAT I RECKON \ud83c\udf2d Hot Dogs Probably Aren't Real @ Rhino Room",
         "description": "Sat, 12 Oct, 6:30pm - 7:30pm ACDT",
         "location": "1/131 Pirie St, Adelaide SA 5000, Australia"
+    },
+    {
+        "title": "NAT'S WHAT I RECKON \ud83c\udf2d Hot Dogs Probably Aren't Real @ The Howling Owl (AUSLAN INTERPRETED)",
+        "description": "Fri, 11 Oct, 8pm - 9pm ACDT",
+        "location": "10 Vaughan Pl, Adelaide SA 5000, Australia"
     },
     {
         "title": "Byron DNB - Blkout. Dosco, Inspectah - 360 Edition",
@@ -285,14 +265,24 @@
         "location": "38 David St, Turner ACT 2612, Australia"
     },
     {
+        "title": "Prairie Dog Productions Presents \"Muddy Waters\"",
+        "description": "Fri, 8 Nov, 7:30pm - 10pm MST +5 more",
+        "location": "1339 Paseo Del Pueblo Sur, Taos, NM 87571, USA"
+    },
+    {
         "title": "Ruby Teys - Dog C*nt",
         "description": "Fri, 18 Oct, 8pm - 9:30pm AEDT",
         "location": "293-297 Crown St, Wollongong NSW 2500, Australia"
     },
     {
-        "title": "Personalised Dog Collars For Your Furry Friends",
-        "description": "Fri, 27 Sep, 10am - 12pm ACST",
-        "location": "46 Mount Barker Rd, Hahndorf SA 5245, Australia"
+        "title": "The Joe Cocker Express: Mad Dog vs The Englishman",
+        "description": "Fri, 7 Mar 2025, 7pm - 10pm AEDT",
+        "location": "49 Jerrabomberra Ave, Narrabundah ACT 2604, Australia"
+    },
+    {
+        "title": "Seminar: Space (doesn't have to be) the Final Frontier: Some Tips in Accounting for Spatial Dependence within Your Regression-Type Models in R",
+        "description": "Thu, 24 Oct, 2:30am - 3:30pm AEDT",
+        "location": "Central Lecture Block (E19), Library Rd, UNSW Sydney, Kensington NSW 2052, Australia"
     },
     {
         "title": "2024 WOODFEST | Carving a Small Sitting Dog in Huon Pine with Carol Russell",
@@ -320,34 +310,14 @@
         "location": "7 Dixon Street, Te Aro, Wellington 6011, New Zealand"
     },
     {
-        "title": "Author Event: Danny Chung Does Not Do Maths, with Maisie Chan",
-        "description": "Thu, 26 Sep, 9am - 9:30am UTC",
-        "location": "Online"
-    },
-    {
-        "title": "Loading Docs: Season 10 Premiere",
-        "description": "Wed, 25 Sep, 6:30pm - 9pm NZST",
-        "location": "20 Saint Georges Road, Avondale, Auckland 0600, New Zealand"
-    },
-    {
         "title": "Dosed - A Trip of a Lifetime Movie Screening and Q&A",
         "description": "Sat, 23 Nov, 5:30pm - 9pm AEDT",
         "location": "479 Princes Hwy, Woonona NSW 2517, Australia"
     },
     {
-        "title": "Family Friday Happy Hour - Music from the Sky Dogs",
-        "description": "Fri, 27 Sep, 6pm - 9pm PDT",
-        "location": ""
-    },
-    {
-        "title": "LOVING HER Group does Alcotraz - Lesbians & Queers Get Locked Up",
-        "description": "Sat, 12 Oct, 7:35pm - 11pm AEDT",
-        "location": "592 Elizabeth St, Melbourne VIC 3000, Australia"
-    },
-    {
-        "title": "2024 Vendor Registration: Dogtober on Beaufort Street",
-        "description": "Sat, 19 Oct, 11am - 3pm AWST",
-        "location": "301 Beaufort St, Perth WA 6000, Australia"
+        "title": "Reactive Dog Workshop",
+        "description": "Sun, 13 Oct, 12pm - 3pm NZDT",
+        "location": "584 Great South Road, Ellerslie, Auckland 1051, New Zealand"
     },
     {
         "title": "Baby, Toddler & Dog Workshop",
@@ -355,9 +325,49 @@
         "location": "584 Great South Road, Ellerslie, Auckland 1051, New Zealand"
     },
     {
-        "title": "Reactive Dog Workshop",
-        "description": "Sun, 13 Oct, 12pm - 3pm NZDT",
-        "location": "584 Great South Road, Ellerslie, Auckland 1051, New Zealand"
+        "title": "2024 Vendor Registration: Dogtober on Beaufort Street",
+        "description": "Sat, 19 Oct, 11am - 3pm AWST",
+        "location": "301 Beaufort St, Perth WA 6000, Australia"
+    },
+    {
+        "title": "LOVING HER Group does Alcotraz - Lesbians & Queers Get Locked Up",
+        "description": "Sat, 12 Oct, 7:35pm - 11pm AEDT",
+        "location": "592 Elizabeth St, Melbourne VIC 3000, Australia"
+    },
+    {
+        "title": "Come and Try Dog Training Session - Tuggerah Dog Park",
+        "description": "Sat, 2 Nov, 10am - 11am AEDT",
+        "location": "closed for maintenance on the first and third Wednesday of each month from 7am to 12pm, 105 Church Rd, Tuggerah NSW 2259, Australia"
+    },
+    {
+        "title": "Come and Try Dog Training Session - Ettalong Oval",
+        "description": "Wed, 30 Oct, 10am - 11am AEDT",
+        "location": "Picnic Parade, Ettalong Beach NSW 2257, Australia"
+    },
+    {
+        "title": "Come and Try Dog Training Session - Narara Dog Park",
+        "description": "Thu, 14 Nov, 10am - 11am AEDT",
+        "location": "156 Showground Rd, Narara NSW 2250, Australia"
+    },
+    {
+        "title": "Come and Try Dog Training Session - Helen Reserve",
+        "description": "Sat, 16 Nov, 10am - 11am AEDT",
+        "location": "Gorokan NSW 2263, Australia"
+    },
+    {
+        "title": "Come and Try Dog Training Session - Tuggerah Dog Park",
+        "description": "Fri, 8 Nov, 10am - 11am AEDT",
+        "location": "closed for maintenance on the first and third Wednesday of each month from 7am to 12pm, 105 Church Rd, Tuggerah NSW 2259, Australia"
+    },
+    {
+        "title": "How to Draw Your Dog with Sara Phemister",
+        "description": "Sun, 13 Oct, 1pm - 3pm AEDT",
+        "location": "84 Comur St, Yass NSW 2582, Australia"
+    },
+    {
+        "title": "Workshop: What does a production manager do anyway?",
+        "description": "Wed, 16 Oct, 12pm - 1pm UTC",
+        "location": "Online"
     },
     {
         "title": "\"Dogs and Ferrets\" An interactive workshop and presentation",
@@ -370,14 +380,14 @@
         "location": "2345 Cheshire Bridge Rd NE, Atlanta, GA 30324, USA"
     },
     {
+        "title": "Finance at the Threshold for Business: Size does not matter",
+        "description": "Mon, 18 Nov, 9am - 11pm AEDT",
+        "location": "1 St Heliers St, Abbotsford VIC 3067, Australia"
+    },
+    {
         "title": "Fat Dog Parade 2024",
         "description": "Tue, 4 Jun, 7pm 2024 - 3 Jul, 11pm 2026 AEST",
         "location": "To be announced"
-    },
-    {
-        "title": "C.R Presents: Exotic Potion Cookies does Pink Floyd's The Wall alongside Forest with Dark Side of the Moon - Townsville",
-        "description": "Fri, 1 Nov, 7pm - 11pm AEST",
-        "location": "Molly Malones, 87-95 Flinders St, Townsville City QLD 4810, Australia"
     },
     {
         "title": "C.R Presents: Exotic Potion Cookies does Pink Floyd's The Wall alongside Forest with Dark Side of the Moon - Ravenshoe",
@@ -425,19 +435,39 @@
         "location": "142 Liverpool St, Hobart TAS 7000, Australia"
     },
     {
-        "title": "Finance at the Threshold for Business: Size does not matter",
-        "description": "Mon, 18 Nov, 9am - 11pm AEDT",
-        "location": "1 St Heliers St, Abbotsford VIC 3067, Australia"
-    },
-    {
         "title": "Guide Dogs Vic's Beginner Yoga Workshop Series",
         "description": "Tue, 1 Oct, 1:30pm - 22 Oct, 1:30pm AEST",
         "location": "2 Chandler Hwy, Kew VIC 3101, Australia"
     },
     {
-        "title": "Life Skills Dog Training-- September 2024",
-        "description": "Sun, 29 Sep, 10am - 11am NZDT",
-        "location": "96 Bristol Street, St Albans, Christchurch 8014, New Zealand"
+        "title": "Santa Paws Event 2024: Strike-A-Paws: The Ultimate Dog Fashion Show",
+        "description": "Sun, 17 Nov, 11am - 12pm AEDT",
+        "location": "Centennial Park NSW 2021, Australia"
+    },
+    {
+        "title": "The Dachshund Dash (Sausage Dog Races) -  Santa Paws Event 2024",
+        "description": "Sun, 17 Nov, 11am - 12pm AEDT",
+        "location": "Centennial Park NSW 2021, Australia"
+    },
+    {
+        "title": "Santa Paws Event 2024: Unleash Your Dog's Star Power! Enter the Waggiest Tail Competition.",
+        "description": "Sun, 17 Nov, 11am - 12pm AEDT",
+        "location": "Centennial Park NSW 2021, Australia"
+    },
+    {
+        "title": "Santa Paws Event 2024: Best Dog Trick (With Treats) Contest",
+        "description": "Sun, 17 Nov, 11am - 12pm AEDT",
+        "location": "Centennial Park NSW 2021, Australia"
+    },
+    {
+        "title": "C.R Presents: Exotic Potion Cookies does Pink Floyd's The Wall alongside Forest with Dark Side of the Moon - Townsville",
+        "description": "Fri, 1 Nov, 7pm - 11pm AEST",
+        "location": "Molly Malones, 87-95 Flinders St, Townsville City QLD 4810, Australia"
+    },
+    {
+        "title": "C.R Presents: Exotic Potion Cookies does Pink Floyd's The Wall alongside Forest with Dark Side of the Moon - Mackay",
+        "description": "Sat, 7 Dec, 7pm - 11pm AEST",
+        "location": "McGuires Hotel, 17 Wood St, Mackay QLD 4740, Australia"
     },
     {
         "title": "Life Skills Dog Training Course-- November 2024",
@@ -460,16 +490,6 @@
         "location": "20310 68th Ave W, Lynnwood, WA 98036, USA"
     },
     {
-        "title": "SHIFT Presents - Sustainability: what does it all mean for you and for your business?",
-        "description": "Thu, 17 Oct, 12pm - 2pm NZDT",
-        "location": "1 Albert Street, Auckland CBD, Auckland 1010, New Zealand"
-    },
-    {
-        "title": "Connect the Dots: Business Principles for Specialty Coffee",
-        "description": "Thu, 24 Oct, 8am - 25 Oct, 4pm CDT",
-        "location": "1023 Springdale Road #1A Austin, TX 78721"
-    },
-    {
         "title": "Spiritual Intelligence, what is it? why does it matter? how do I acquire it?",
         "description": "Sat, 18 Jan 2025, 9am - 12pm CST",
         "location": "12211 Memorial Dr, Houston, TX 77024, USA"
@@ -478,5 +498,15 @@
         "title": "How to communicate with a teen that doesn't want to!",
         "description": "Tue, 29 Oct, 6am - 8am UTC",
         "location": "Online"
+    },
+    {
+        "title": "Connect the Dots: Business Principles for Specialty Coffee",
+        "description": "Thu, 24 Oct, 8am - 25 Oct, 4pm CDT",
+        "location": "1023 Springdale Road #1A Austin, TX 78721"
+    },
+    {
+        "title": "SHIFT Presents - Sustainability: what does it all mean for you and for your business?",
+        "description": "Thu, 17 Oct, 12pm - 2pm NZDT",
+        "location": "1 Albert Street, Auckland CBD, Auckland 1010, New Zealand"
     }
 ]

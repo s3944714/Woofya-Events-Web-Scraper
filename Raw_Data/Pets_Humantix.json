@@ -30,16 +30,6 @@
         "location": "Duke St, Grafton NSW 2460, Australia"
     },
     {
-        "title": "Paintyer Pet Event to Benefit Scruffy Paws Animal Rescue",
-        "description": "Sun, 29 Sep, 2pm - 5pm EDT",
-        "location": "15 Meeting St, Coventry, RI 02816, USA"
-    },
-    {
-        "title": "Healthy Pet Day- Morwell",
-        "description": "Wed, 25 Sep, 9:30am - 5pm AEST",
-        "location": "48-50 Beattie Cres, Morwell VIC 3840, Australia"
-    },
-    {
         "title": "Webinar | A conversation with  Simon Cherry and Ramsey Badawi: Origins, current progress and the future of Total Body PET",
         "description": "Mon, 30 Sep, 11pm - 1 Oct, 12am UTC",
         "location": "Online"
@@ -55,34 +45,9 @@
         "location": "Hodgson Reserve, Higgins Rd, Bentleigh VIC 3204, Australia"
     },
     {
-        "title": "Healthy Pet Day with Cat Desexing event- Morwell",
-        "description": "Wed, 25 Sep, 8am - 4:30pm AEST",
-        "location": "48-50 Beattie Cres, Morwell VIC 3840, Australia"
-    },
-    {
         "title": "RSPCA Pet Vaccination Event at 1st Reservoir Scout Hall - November",
         "description": "Thu, 7 Nov, 9:30am - 4:30pm AEDT",
         "location": "73-77 Leamington St, Reservoir VIC 3073, Australia"
-    },
-    {
-        "title": "RSPCA Pet Vaccination Event at Noble Park Community Centre - Dec",
-        "description": "Thu, 19 Dec, 9:30am - 4:30pm AEDT",
-        "location": "Ross Reserve, 44 Memorial Dr, Noble Park VIC 3174, Australia"
-    },
-    {
-        "title": "RSPCA Pet Vaccination Event at Aspendale Scout Hall- November",
-        "description": "Thu, 21 Nov, 9:30am - 4:30pm AEDT",
-        "location": "1 Browns Ln, Aspendale VIC 3195, Australia"
-    },
-    {
-        "title": "RSPCA Pet Vaccination Event at 1st Hurstbridge Scout Hall - November",
-        "description": "Wed, 6 Nov, 9:30am - 4:30pm AEDT",
-        "location": "20 Anzac Ave, Hurstbridge VIC 3099, Australia"
-    },
-    {
-        "title": "RSPCA Pet Vaccination Event at Cranbourne Park Shopping Centre - September",
-        "description": "Thu, 26 Sep, 9:30am - 4:30pm AEST",
-        "location": "125 High St, Cranbourne VIC 3977, Australia"
     },
     {
         "title": "RSPCA Pet Vaccination Event at Homestead Community & Learning Centre - October",
@@ -90,14 +55,19 @@
         "location": "30 Whiltshire Dr, Roxburgh Park VIC 3064, Australia"
     },
     {
-        "title": "RSPCA Pet Vaccination Event at 2nd/3rd Bayswater Scout Hall - November",
-        "description": "Thu, 14 Nov, 9:30am - 4:30pm AEDT",
-        "location": "Station St, Bayswater VIC 3153, Australia"
-    },
-    {
         "title": "RSPCA Pet Vaccination Event at Cranbourne Park Shopping Centre - November",
         "description": "Wed, 27 Nov, 9:30am - 4:30pm AEDT",
         "location": "125 High St, Cranbourne VIC 3977, Australia"
+    },
+    {
+        "title": "RSPCA Pet Vaccination Event at Mount Evelyn Scout Hall - October",
+        "description": "Thu, 31 Oct, 9:30am - 4:30pm AEDT",
+        "location": "23 Station St, Mount Evelyn VIC 3796, Australia"
+    },
+    {
+        "title": "RSPCA Pet Vaccination Event at Aspendale Scout Hall- November",
+        "description": "Thu, 21 Nov, 9:30am - 4:30pm AEDT",
+        "location": "1 Browns Ln, Aspendale VIC 3195, Australia"
     },
     {
         "title": "RSPCA Pet Vaccination Event at 6th Melbourne Scouts Kensington - October",
@@ -105,9 +75,19 @@
         "location": "Scout Hall, 55 McCracken St, Kensington VIC 3031, Australia"
     },
     {
-        "title": "RSPCA Pet Vaccination Event at Mackie Rd Neighbourhood House - October",
-        "description": "Wed, 16 Oct, 10am - 4:30pm AEDT",
-        "location": "36 - 42 Mackie Rd, Mulgrave VIC 3170, Australia"
+        "title": "RSPCA Pet Vaccination Event at 1st Epping Scout Hall - October",
+        "description": "Thu, 17 Oct, 9:30am - 4:30pm AEDT",
+        "location": "Memorial Ave & Duffy St, Epping VIC 3076, Australia"
+    },
+    {
+        "title": "RSPCA Pet Vaccination Event at 1st Hurstbridge Scout Hall - November",
+        "description": "Wed, 6 Nov, 9:30am - 4:30pm AEDT",
+        "location": "20 Anzac Ave, Hurstbridge VIC 3099, Australia"
+    },
+    {
+        "title": "RSPCA Pet Vaccination Event at Noble Park Community Centre - Dec",
+        "description": "Thu, 19 Dec, 9:30am - 4:30pm AEDT",
+        "location": "Ross Reserve, 44 Memorial Dr, Noble Park VIC 3174, Australia"
     },
     {
         "title": "RSPCA Pet Vaccination Event at 1st Oak Park Scout Hall - December",
@@ -120,34 +100,24 @@
         "location": "31 Outhwaite Rd, Heidelberg Heights VIC 3081, Australia"
     },
     {
-        "title": "RSPCA Pet Vaccination Event at 1st Devon Meadows Scout Hall - October",
-        "description": "Thu, 10 Oct, 9:30am - 4:30pm AEDT",
-        "location": "Devon Meadows VIC 3977, Australia"
-    },
-    {
-        "title": "RSPCA Pet Vaccination Event at Mount Evelyn Scout Hall - October",
-        "description": "Thu, 31 Oct, 9:30am - 4:30pm AEDT",
-        "location": "23 Station St, Mount Evelyn VIC 3796, Australia"
-    },
-    {
-        "title": "Healthy Pet Day with Cat Desexing event- Morwell - SECOND DAY",
-        "description": "Thu, 26 Sep, 8am - 4:30pm AEST",
-        "location": "48-50 Beattie Cres, Morwell VIC 3840, Australia"
-    },
-    {
-        "title": "RSPCA Pet Vaccination Event at 1st Epping Scout Hall - October",
-        "description": "Thu, 17 Oct, 9:30am - 4:30pm AEDT",
-        "location": "Memorial Ave & Duffy St, Epping VIC 3076, Australia"
-    },
-    {
         "title": "RSPCA Pet Vaccination Event at Cranbourne Park Shopping Centre - October",
         "description": "Wed, 23 Oct, 9:30am - 4:30pm AEDT",
         "location": "125 High St, Cranbourne VIC 3977, Australia"
     },
     {
-        "title": "Healthy Pet Day Morwell - SECOND DAY ADDED!",
-        "description": "Thu, 26 Sep, 10am - 3pm AEST",
-        "location": "48-50 Beattie Cres, Morwell VIC 3840, Australia"
+        "title": "RSPCA Pet Vaccination Event at Mackie Rd Neighbourhood House - October",
+        "description": "Wed, 16 Oct, 10am - 4:30pm AEDT",
+        "location": "36 - 42 Mackie Rd, Mulgrave VIC 3170, Australia"
+    },
+    {
+        "title": "RSPCA Pet Vaccination Event at 2nd/3rd Bayswater Scout Hall - November",
+        "description": "Thu, 14 Nov, 9:30am - 4:30pm AEDT",
+        "location": "Station St, Bayswater VIC 3153, Australia"
+    },
+    {
+        "title": "RSPCA Pet Vaccination Event at 1st Devon Meadows Scout Hall - October",
+        "description": "Thu, 10 Oct, 9:30am - 4:30pm AEDT",
+        "location": "Devon Meadows VIC 3977, Australia"
     },
     {
         "title": "Intergenerational Paint Your Pet",
@@ -156,7 +126,7 @@
     },
     {
         "title": "RQAS Life Drawing Session at Petrie Terrace Gallery",
-        "description": "Sun, 29 Sep, 10:30am - 12:30pm AEST +22 more",
+        "description": "Tue, 1 Oct, 4:30pm - 6:30pm AEST +21 more",
         "location": "3/162 Petrie Terrace, QLD 4000, Australia"
     },
     {
@@ -185,14 +155,14 @@
         "location": "12 Kent St, East Victoria Park WA 6101, Australia"
     },
     {
-        "title": "Peter and the Starcatcher",
-        "description": "Fri, 18 Oct, 7:30pm - 9pm MST +4 more",
-        "location": "9000 E Chaparral Rd, Scottsdale, AZ 85256, USA"
-    },
-    {
         "title": "Petite Suite \u201824",
         "description": "Tue, 1 Oct, 6:30pm - 7:30pm AEST +4 more",
         "location": "47 Wentworth Ave, Sydney NSW 2000, Australia"
+    },
+    {
+        "title": "Peter and the Starcatcher",
+        "description": "Fri, 18 Oct, 7:30pm - 9pm MST +4 more",
+        "location": "9000 E Chaparral Rd, Scottsdale, AZ 85256, USA"
     },
     {
         "title": "SCORCHED PETALS TO PAGES ARTIST AND CURATOR TALK",
@@ -220,13 +190,13 @@
         "location": "4272 Fremont Ave N, Seattle, WA 98103, USA"
     },
     {
-        "title": "Cinema Show - Performing the works of Genesis, Peter Gabriel & Phil Collins",
-        "description": "Sat, 15 Feb 2025, 8pm - 10:30pm AEDT",
+        "title": "ELVIS by Anthony Petrucci",
+        "description": "Sat, 26 Oct, 8pm - 10:15pm AEDT",
         "location": "69 Avoca Dr, Avoca Beach NSW 2251, Australia"
     },
     {
-        "title": "ELVIS by Anthony Petrucci",
-        "description": "Sat, 26 Oct, 8pm - 10:15pm AEDT",
+        "title": "Cinema Show - Performing the works of Genesis, Peter Gabriel & Phil Collins",
+        "description": "Sat, 15 Feb 2025, 8pm - 10:30pm AEDT",
         "location": "69 Avoca Dr, Avoca Beach NSW 2251, Australia"
     },
     {
@@ -245,19 +215,9 @@
         "location": "204 High St, Northcote VIC 3070, Australia"
     },
     {
-        "title": "Picture Me Workshop - Aurore Petit",
-        "description": "Sat, 28 Sep, 11:15am - 12:45pm NZST +1 more",
-        "location": "60 Cathedral Square, Christchurch Central City, Christchurch 8011, New Zealand"
-    },
-    {
         "title": "Peter FitzSimons author talk",
         "description": "Wed, 11 Dec, 6pm - 7:30pm AEDT",
         "location": "184/194 Bourke St, Goulburn NSW 2580, Australia"
-    },
-    {
-        "title": "Le Paint: Dip, Dab, Drink \"Paint Your Pet\" at UnCorked Village Classroom",
-        "description": "Thu, 26 Sep, 6pm - 8pm MDT",
-        "location": "2350 N Eagle Rd, Meridian, ID 83646, USA"
     },
     {
         "title": "Le Paint: Dip, Dab, Drink \"Paint Your Pet\" at UnCorked Village Classroom",
@@ -265,19 +225,19 @@
         "location": "2350 N Eagle Rd, Meridian, ID 83646, USA"
     },
     {
-        "title": "Unity Floors / The Bed Wettin' Bad Boys / Giant Hammer at the Petersham Bowling Club",
-        "description": "Sat, 5 Oct, 8pm - 5 Oct, 11pm AEST",
-        "location": "77 Brighton St, Petersham NSW 2049, Australia"
-    },
-    {
         "title": "Ant Gallery, Milly McPherson and Final Girls at the Petersham Bowling Club",
         "description": "Sun, 6 Oct, 6pm - 9pm AEDT",
         "location": "77 Brighton St, Petersham NSW 2049, Australia"
     },
     {
-        "title": "Favourite Kid, Carmon and Abigail Wighton at the Petersham Bowling Club",
-        "description": "Wed, 25 Sep, 7pm - 9:30pm AEST",
+        "title": "Unity Floors / The Bed Wettin' Bad Boys / Giant Hammer at the Petersham Bowling Club",
+        "description": "Sat, 5 Oct, 8pm - 5 Oct, 11pm AEST",
         "location": "77 Brighton St, Petersham NSW 2049, Australia"
+    },
+    {
+        "title": "CASEFILE PRESENTS CRIMINAL CONVERSATIONS with VIKKI PETRAITIS, EMILY WEBB & ANONYMOUS CASEFILE HOST",
+        "description": "Sat, 23 Nov, 3:30pm - 5:30pm AEDT",
+        "location": "1/26 Errol St, North Melbourne VIC 3051, Australia"
     },
     {
         "title": "Peter & The Wolves: Summer Soir\u00e9e",
@@ -288,16 +248,6 @@
         "title": "Book Launch - Naku Dharuk The Bark Petitions: How the People of Yirrkala Changed the Course of Australian Democracy",
         "description": "Wed, 30 Oct, 6pm - 7:30pm AWST",
         "location": "25 Francis St, Perth WA 6000, Australia"
-    },
-    {
-        "title": "Maker-Led Workshop | Sculpt and Sip: Pet Sculpture Making with Liz Collins Pottery",
-        "description": "Thu, 26 Sep, 6pm - 8pm EDT",
-        "location": "1307 New Hampshire Ave NW, Washington, DC 20036, USA"
-    },
-    {
-        "title": "Nerd Nite St. Pete - Sep 2024",
-        "description": "Tue, 24 Sep, 6:30pm - 9:30pm EDT",
-        "location": "2390 5th Ave S, St. Petersburg, FL 33712, USA"
     },
     {
         "title": "The 2024 Peter Cullen Lecture",
@@ -315,19 +265,19 @@
         "location": "Candelo NSW 2550, Australia"
     },
     {
-        "title": "Peter \"Wally\" Bamford Memorial Concert",
-        "description": "Sat, 30 Nov, 4pm - 11:30pm AEDT",
-        "location": "49 Jerrabomberra Ave, Narrabundah ACT 2604, Australia"
-    },
-    {
-        "title": "Waterway Tales: Salty Pete in Goolwa",
-        "description": "Sun, 6 Oct, 2pm - 3:30pm AEDT +1 more",
-        "location": "14 Cadell St, Goolwa SA 5214, Australia"
-    },
-    {
         "title": "Waterway Tales: Salty Pete on the Popeye",
         "description": "Fri, 4 Oct, 5pm - 6:30pm AEST +1 more",
         "location": "Elder Park, King William Rd, Adelaide SA 5000, Australia"
+    },
+    {
+        "title": "Waterway Tales: Salty Pete in Goolwa",
+        "description": "Sun, 6 Oct, 5pm - 6:30pm AEDT",
+        "location": "14 Cadell St, Goolwa SA 5214, Australia"
+    },
+    {
+        "title": "Peter \"Wally\" Bamford Memorial Concert",
+        "description": "Sat, 30 Nov, 4pm - 11:30pm AEDT",
+        "location": "49 Jerrabomberra Ave, Narrabundah ACT 2604, Australia"
     },
     {
         "title": "My Pet Dinosaur at Dubbo Library",
@@ -335,13 +285,58 @@
         "location": "Macquarie St &, Talbragar St, Dubbo NSW 2830, Australia"
     },
     {
+        "title": "WORKSHOP | Mischievous Midnight Illustrations with Peter Cheong (WA)",
+        "description": "Sun, 27 Oct, 12:15pm - 1:15pm AWST",
+        "location": "573 Hay St, Perth WA 6000, Australia"
+    },
+    {
         "title": "In conversation with Pip Williams and Peter Zajicek",
         "description": "Tue, 19 Nov, 12pm - 1pm ACDT",
         "location": "Kintore Ave & North Terrace, Adelaide SA 5000, Australia"
     },
     {
-        "title": "WORKSHOP | Mischievous Midnight Illustrations with Peter Cheong (WA)",
-        "description": "Sun, 27 Oct, 12:15pm - 1:15pm AWST",
-        "location": "573 Hay St, Perth WA 6000, Australia"
+        "title": "Petty Thievery at Dos Mariposas",
+        "description": "Fri, 4 Oct, 6:30pm - 9pm PDT",
+        "location": "3976 Bellinger Ln, Medford, OR 97501, USA"
+    },
+    {
+        "title": "St. Petersburg Happy Hour Halloween Bar Crawl",
+        "description": "Sat, 19 Oct, 4pm - 10pm GMT-05:00",
+        "location": "242 1st Ave N, St. Petersburg, FL 33701, USA"
+    },
+    {
+        "title": "St Petersburg Official Halloween Bar Crawl 2024",
+        "description": "Sat, 26 Oct, 4pm - 10pm GMT-05:00",
+        "location": "242 1st Ave N, St. Petersburg, FL 33701, USA"
+    },
+    {
+        "title": "Kids Holiday Program- Croissant and Brioche baking class- Ma Petite Patisserie",
+        "description": "Thu, 3 Oct, 8:30am - 1pm AEST",
+        "location": "Griffith ACT 2603, Australia"
+    },
+    {
+        "title": "Parent/Child Halloween Cupcakes class- Ma Petite Patisserie Baking class",
+        "description": "Sat, 26 Oct, 1:30pm - 3:30pm AEDT",
+        "location": "Griffith ACT 2603, Australia"
+    },
+    {
+        "title": "Vegan Paris-Brest (Choux pastry and hazelnut praline cream)- Ma Petite Patisserie Baking class 9/11/2024",
+        "description": "Sat, 9 Nov, 1:30pm - 4:30pm AEDT",
+        "location": "To be announced"
+    },
+    {
+        "title": "Plant-based Tiramisu with a modern twist- Ma Petite Patisserie Baking",
+        "description": "Sat, 19 Oct, 1:30pm - 4pm AEDT",
+        "location": "Griffith ACT 2603, Australia"
+    },
+    {
+        "title": "Mango and Passionfruit Tart- Ma Petite Patisserie Baking Class",
+        "description": "Sat, 2 Nov, 1:30pm - 4:30pm AEDT",
+        "location": "To be announced"
+    },
+    {
+        "title": "Vegan Croissant Baking Class - Ma Petite P\u00e2tisserie 12/10/2024",
+        "description": "Sat, 12 Oct, 1:30pm - 4pm AEDT",
+        "location": "Griffith ACT 2603, Australia"
     }
 ]
