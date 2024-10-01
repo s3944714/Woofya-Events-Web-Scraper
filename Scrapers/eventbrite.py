@@ -21,8 +21,15 @@ for page in range(1, total_pages + 1):
     print(f"Scraping page {page}: {url}")
 
     # Send a GET request to fetch the HTML content and render JavaScript
-    response = session.get(url)
-    response.html.render(sleep=3)  # Render the JavaScript to load dynamic content
+    try:
+        response = session.get(url)
+
+        # Increase the timeout to 20 seconds (default is 8 seconds)
+        response.html.render(sleep=3, timeout=20)  # Render the JavaScript with an increased timeout
+
+    except Exception as e:
+        print(f"Error while rendering page {page}: {e}")
+        continue  # Skip to the next page if there's an error
 
     # Check if the content was successfully rendered
     if response.status_code == 200:
@@ -75,7 +82,7 @@ for page in range(1, total_pages + 1):
         print(f"Failed to retrieve page {page}. Status code: {response.status_code}")
 
 # Specify the output directory and file name
-output_directory = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'Data')  # Output folder outside the 'Scrapers' directory
+output_directory = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'Raw_Data')  # Output folder outside the 'Scrapers' directory
 output_file = os.path.join(output_directory, 'Eventbrite_Dog_Events.json')
 
 # Ensure the directory exists

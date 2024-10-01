@@ -84,7 +84,7 @@ for page in range(1, max_pages + 1):
 
 # Specify the output directory and file name
 # Define the path to the existing 'Data' directory outside of 'Scrapers'
-output_directory = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'Data')
+output_directory = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'Raw_Data')  # Output folder outside the 'Scrapers' directory
 
 # Ensure the directory exists
 os.makedirs(output_directory, exist_ok=True)

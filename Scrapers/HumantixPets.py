@@ -66,7 +66,7 @@ for page_num in range(0, 5):  # Change 5 to the number of pages you want to scra
         break
 
 # Specify the output directory and file name
-output_directory = os.path.join('..', 'Data')  # Go one level up and enter 'Data' folder
+output_directory = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'Raw_Data')  # Output folder outside the 'Scrapers' directory
 output_file = os.path.join(output_directory, 'Pets_Humantix.json')
 
 # Ensure the directory exists

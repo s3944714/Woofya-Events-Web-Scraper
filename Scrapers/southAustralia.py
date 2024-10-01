@@ -67,7 +67,7 @@ for page in range(1, total_pages + 1):
         print(f"Failed to retrieve page {page}. Status code: {response.status_code}")
 
 # Specify the output directory and file name
-output_directory = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'Data')  # Output folder outside the 'Scrapers' directory
+output_directory = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'Raw_Data')  # Output folder outside the 'Scrapers' directory
 output_file = os.path.join(output_directory, 'SouthAustralia_Dog_Services.json')
 
 # Ensure the directory exists

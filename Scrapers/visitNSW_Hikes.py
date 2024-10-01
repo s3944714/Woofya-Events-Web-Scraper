@@ -73,7 +73,7 @@ if response.status_code == 200:
             print(f"Error while parsing hike: {e}")
 
     # Specify the output directory and file name
-    output_directory = os.path.join('Data')  # Output folder
+    output_directory = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'Raw_Data')  # Output folder outside the 'Scrapers' directory
     output_file = os.path.join(output_directory, 'VisitNSW_Hikes.json')
 
     # Ensure the directory exists
