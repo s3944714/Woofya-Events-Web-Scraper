@@ -1,53 +1,43 @@
-import requests
-from bs4 import BeautifulSoup
-import json
+import subprocess
+import os
 
-# URL of the page to scrape
-url = "https://humanitix.com/au/search?query=dogs&page=0"
+# Define the path to the Scrapers directory
+SCRAPER_PATH = os.path.join(os.getcwd(), 'Scrapers')
 
-# Send a GET request to fetch the HTML content of the page
-response = requests.get(url)
+# List of all scraper files in the order you want to run them
+scraper_files = [
+    "Humantix.py",
+    "HumantixPets.py",
+    "eventbrite.py",
+    "pupsy.py",
+    "southAustralia.py",
+    "visitNSW.py",
+    "visitNSW_Hikes.py",
+    "visitNSW_Phase2.py",
+    "yappack.py"
+]
 
-# Check if the request was successful (status code 200)
-if response.status_code == 200:
-    # Parse the HTML content using BeautifulSoup
-    soup = BeautifulSoup(response.text, 'html.parser')
+def run_scraper(file_name):
+    """
+    Executes a single scraper script using subprocess.
+    
+    Args:
+        file_name (str): The name of the scraper file to be executed.
+    """
+    file_path = os.path.join(SCRAPER_PATH, file_name)
+    print(f"Running {file_name}...")
+    try:
+        # Run the scraper script
+        subprocess.run(['python', file_path], check=True)
+        print(f"{file_name} completed successfully.\n")
+    except subprocess.CalledProcessError as e:
+        print(f"Error occurred while running {file_name}: {e}\n")
 
-    # List to store the event data
-    events_list = []
+if __name__ == "__main__":
+    print("Starting all scrapers...\n")
 
-    # Find all event blocks
-    events = soup.find_all('a', class_='sc-eb5cf798-0')
+    # Run each scraper in the Scrapers directory
+    for scraper in scraper_files:
+        run_scraper(scraper)
 
-    for event in events:
-        try:
-            # Extract the title
-            title = event.find('h6').text.strip()
-
-            # Extract the description (date and time)
-            description = event.find('p', class_='sc-8821f522-0').text.strip()
-
-            # Extract the location
-            location = event.find_all('p', class_='sc-8821f522-0')[1].text.strip()
-
-            # Store the event data in a dictionary
-            event_data = {
-                'title': title,
-                'description': description,
-                'location': location
-            }
-
-            # Append the event data to the list
-            events_list.append(event_data)
-
-        except Exception as e:
-            print(f"Error while parsing event: {e}")
-
-    # Save the event data to a JSON file
-    with open('events.json', 'w') as f:
-        json.dump(events_list, f, indent=4)
-
-    print("Events data saved to events.json")
-
-else:
-    print(f"Failed to retrieve the webpage. Status code: {response.status_code}")
+    print("All scrapers have been executed.")
